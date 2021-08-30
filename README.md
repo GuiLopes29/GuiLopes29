@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Guilherme Lopes
+ - 🔭 Atualmente trabalhando com Back-End
+ - 📚 Estudando NodeJs e SQL
  <div>
   <a href="https://github.com/GuiLopes29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
