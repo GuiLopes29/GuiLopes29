@@ -3,7 +3,7 @@
  - 📚 Estudando NodeJs e SQL
  <div>
   <a href="https://github.com/GuiLopes29">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style="height: 180px; width: auto" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLopes29&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
