@@ -1,6 +1,6 @@
-## Olá! Eu sou o Guilherme Lopes
- - 🔭 Atualmente trabalhando com Back-End
- - 📚 Estudando NodeJs, React e SQL
+## Hello! I'm Guilherme Lopes
+ - 🔭 Actualy working with Back-End and Code Analist
+ - 📚 Studing NodeJs, React, Angular, SQL Server and Mongo
  <div>
   <a href="https://github.com/GuiLopes29">
   <img style="height: 180px; width: auto" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
