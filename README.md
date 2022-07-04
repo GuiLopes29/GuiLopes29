@@ -1,9 +1,13 @@
-## Hello! I'm Guilherme Lopes
+<h3 align="center";>Hi 👋, I'm Guilherme Lopes</h3>
+<h4 align="center";>A passionate backend developer from Brazil</h4>
+
+ ##
+
  - 🔭 Actualy working with Back-End and Code Analist
- - 📚 Studing NodeJs, React, Angular, SQL Server and Mongo
+ - 📚 Studing NodeJs, React, Angular, SQL Server and Redis
  <div>
   <a href="https://github.com/GuiLopes29">
-  <img style="height: 180px; width: auto" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style="height: 180px; width: auto" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLopes29&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
@@ -16,7 +20,8 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-.Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
- <img align="center" alt="Gui-.Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Gui-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
   <!--<img align="right" alt="Gui-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
   
