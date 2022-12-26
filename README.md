@@ -1,11 +1,19 @@
-<h3 align="center";>Hi 👋, I'm Guilherme Lopes</h3>
-<h4 align="center";>A passionate backend developer from Brazil</h4>
+<img align="right" width="450px" src="https://i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif">
+<div align="left">
+ <br>
+ <h3 align="center" top="100px">Hi 👋, I'm Guilherme Lopes</h3>
+ <h4 align="center">A passionate backend developer from Brazil</h4>
+ <h4 align="center"> Welcome to my code world ❤️</h4>
+</div>
+<br/><br/><br/><br/>
 
  ##
 
  - 🔭 Actualy working with Back-End and Code Analist
  - 📚 Studing NodeJs, React, Angular, SQL Server and Redis
- - New portifolium comming with own domain: www.guibr.com.br
+ - ⚙️ Creating an App with React Native (More info comming soon)
+ - New portifolium comming with own domain: www.guilopes.dev
+<br/>
  <div>
   <a href="https://github.com/GuiLopes29">
   <img style="height: 180px; width: auto" src="https://github-readme-stats.vercel.app/api?username=GuiLopes29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>    
