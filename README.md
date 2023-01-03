@@ -4,6 +4,7 @@
  <h3 align="center" top="100px">Hi 👋, I'm Guilherme Lopes</h3>
  <h4 align="center">A passionate backend developer from Brazil</h4>
  <h4 align="center"> Welcome to my code world ❤️</h4>
+ <h4 align="center">Send Email: <a href = "mailto: contact@guilopes.dev"> contact@guilopes.dev</a></h4>
 </div>
 <br/><br/><br/><br/>
 
