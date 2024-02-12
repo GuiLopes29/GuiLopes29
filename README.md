@@ -1,12 +1,13 @@
 <img align="right" width="450px" src="https://i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif">
-<div align="left">
- <br>
+<br/>
+<div style=" align:left; pading-bottom">
  <h3 align="center" top="100px">Hi 👋, I'm Guilherme Lopes</h3>
  <h4 align="center">A passionate backend developer from Brazil</h4>
  <h4 align="center"> Welcome to my code world ❤️</h4>
- <h4 align="center">Contact me: <a href = "mailto: contact@guilopes.dev"> contact@guilopes.dev</a></h4>
+ <h4 align="center">Contact me: <a href = "mailto: guiplopes29@gmail.com"> guiplopes29@gmail.com</a></h4>
 </div>
-<br/><br/><br/><br/>
+
+<br/><br/><br/>
 
  ##
 
@@ -32,7 +33,6 @@
   <img align="center" alt="Gui-.Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Gui-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
-  <!--<img align="right" alt="Gui-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
   
   ##
