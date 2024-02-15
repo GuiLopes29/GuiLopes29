@@ -14,7 +14,7 @@
  - 🔭 Actualy working with Back-End and Code Analist
  - 📚 Studing NodeJs, React, Angular, SQL Server and Redis
  - ⚙️ Creating an App with React Native (More info comming soon)
- - New portifolium comming with own domain: www.guilopes.dev
+ <!-- - New portifolium comming with own domain: www.guilopes.dev-->
 <br/>
  <div>
   <a href="https://github.com/GuiLopes29">
